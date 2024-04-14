@@ -7,10 +7,10 @@ This repository tracks my journey through the Foundations course of The Odin Pro
 
 ## Projects
 
-- [Calculator](link-to-calculator-project)
-- [Rock-Paper-Scissors](link-to-rock-paper-scissors-project)
-- [Etch-a-Sketch](link-to-etch-a-sketch-project)
-- [Odin Recipes](link-to-odin-recipes-project)
+- [Calculator](https://github.com/luvsense/my-odin-journey/tree/main/Foundations/calculator)
+- [Rock-Paper-Scissors](https://github.com/luvsense/my-odin-journey/tree/main/Foundations/rock-paper-scissors)
+- [Etch-a-Sketch](https://github.com/luvsense/my-odin-journey/tree/main/Foundations/Etch-a-Sketch)
+- [Odin Recipes](https://github.com/luvsense/my-odin-journey/tree/main/Foundations/odin-recipes)
 
 ## Key Takeaways
 
