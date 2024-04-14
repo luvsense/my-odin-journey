@@ -3,9 +3,6 @@
 | Started: 23.03.24 | Finished: 15.04.2024 |
 | ----------------- | -------------------- |
 
-**Started:**
-**Ended:** Sunday, April 14, 2024
-
 This repository tracks my journey through the Foundations course of The Odin Project. Here's where I've documented my notes, key learnings, and reflections on the fundamentals of web development, along with the projects I built to solidify my understanding.
 
 ## Projects
@@ -27,5 +24,3 @@ This repository tracks my journey through the Foundations course of The Odin Pro
 - Git
 
 ---
-
-Let me know if you want to make any more adjustments!
