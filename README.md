@@ -1,7 +1,7 @@
 # my-odin-journey
 
-| Started: 23.03.24 | Finished: 15.04.2024 |
-| ----------------- | -------------------- |
+| Started: 23.03.24 | Finished: xx.xx.xx |
+| ----------------- | ------------------ |
 
 The Odin Project: Notes, Projects, and Learning
 
