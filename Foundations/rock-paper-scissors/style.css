@@ -1,0 +1,80 @@
+body {
+  background-image: url('img/gold-background.jpg');
+  background-size: 100%;
+  background-color: #fff;
+  color: #d1b796;
+  font-family: "Henny Penny", system-ui;
+}
+
+.title {
+  text-align: center;
+  margin-top: 150px;
+  font-size: 28px;
+}
+
+.content {}
+
+p {
+  font-size: 22px;
+}
+
+.images {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  height: 100px;
+  width: auto;
+}
+
+.stats {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px;
+}
+
+.displayScores {
+  margin: 10px;
+  display: flex;
+  /* flex-wrap: nowrap; */
+  justify-content: center;
+  flex-direction: row;
+}
+
+.displayScores p {
+  margin: 10px;
+}
+
+.result {
+  text-align: center;
+}
+
+.resetGame {
+  min-width: 100px;
+  margin-left: 665px;
+  margin-top: 20px;
+  padding: 5px;
+  background: #d1b796;
+  border: 0;
+  border-radius: 8px;
+  color: #212121;
+  cursor: pointer;
+  font-family: "Cascadia Code", Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+  font-size: 1rem;
+  transition: .2s;
+}
+
+.playbtn {
+  transition: transform 0.2s ease-in-out;
+  /* Add a smooth transition effect */
+}
+
+.playbtn:hover {
+  transform: scale(1.1);
+  /* Scale up the image on hover */
+  cursor: pointer;
+}

@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Etch-a-Sketch</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://db.onlinewebfonts.com/c/c37920f95595038e0868564341c71133?family=Myriad+Pro+Light"
+    rel="stylesheet" />
+</head>
+
+<body>
+  <div class="container">
+    <div class="content">
+      <div class="panel">
+        <div class="title">
+          <h1>Etch-a-Sketch</h1>
+        </div>
+        <div class="buttons">
+          <button class="blackBtn">Black</button>
+          <button class="whiteBtn">White</button>
+          <button class="random">Random</button>
+          <button class="reset">Reset</button>
+        </div>
+        <form action="">
+          <input class="input-field" type="text" placeholder="Enter Board Size" />
+          <p class="size-note">Note: Board size between 2 and 100</p>
+          <button class="setSize input-btn">Set Size</button>
+        </form>
+      </div>
+      <div class="board"></div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+
+</html>
