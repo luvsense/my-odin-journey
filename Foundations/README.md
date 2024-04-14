@@ -14,7 +14,7 @@ This repository tracks my journey through the Foundations course of The Odin Pro
 
 ## Key Takeaways
 
-- **Feel free to add a few bullet points summarizing your biggest learnings from the Foundations course.**
+- **Will add a few bullet points summarizing my biggest learnings from the Foundations course.**
 
 ## Technologies Used
 
